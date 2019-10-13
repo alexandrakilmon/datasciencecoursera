@@ -1,1 +1,8 @@
+---
+title: "Data Science Project"
+author: Alexandra Kilmon
+date: October 13th, 2019
+output: md_document
+---
+
 ## This is a markdown file. 
